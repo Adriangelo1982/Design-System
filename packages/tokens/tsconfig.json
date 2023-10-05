@@ -1,0 +1,5 @@
+{
+  "extends": "@cadritech-ui/ts-config/base.json",
+  "include": ["src"]
+}
+
